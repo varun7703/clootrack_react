@@ -30,7 +30,6 @@ RenderList.push( <Bar_chart data = {element.elements}/>)
     return (
         <div>
        {RenderList}
-       {/* <Bar_chart data = {post}/> */}
         </div>
     );
   }
